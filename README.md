@@ -12,6 +12,13 @@ Export any YouTube playlist to Spotify with intelligent song matching.
 
 ## Quick Start
 
+### Requirements
+
+- Python 3.8+
+- YouTube Data API v3 key (free)
+- Spotify Web API credentials (free)
+
+
 1. **Clone and setup**
    ```bash
    git clone https://github.com/yourusername/youtube-to-spotify.git
@@ -40,12 +47,6 @@ Export any YouTube playlist to Spotify with intelligent song matching.
    - Song title only
 4. **Creates** new Spotify playlist with matched tracks
 5. **Generates** detailed CSV report of results
-
-## Requirements
-
-- Python 3.8+
-- YouTube Data API v3 key (free)
-- Spotify Web API credentials (free)
 
 ## Configuration
 
