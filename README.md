@@ -21,7 +21,7 @@ Export any YouTube playlist to Spotify with intelligent song matching.
 
 1. **Clone and setup**
    ```bash
-   git clone https://github.com/yourusername/youtube-to-spotify.git
+   git clone https://github.com/orsso/youtube-to-spotify.git
    cd youtube-to-spotify
    python setup.py
    ```
